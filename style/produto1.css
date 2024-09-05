@@ -1,0 +1,25 @@
+.produto1-frente img{
+  max-width: 100%;
+}
+
+.produto-carrossel {
+  height: 31.25rem;
+  width: 31.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  display: flex;
+  height: 100%;
+}
+
+h4 {
+  padding-left: 1rem;
+}
+
+ul  li{
+  padding-left: 1rem;
+}
+
+.btn-compra {
+  margin-left: 1rem;
+}

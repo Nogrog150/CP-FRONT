@@ -1,0 +1,21 @@
+:root {
+  --bg-background: rgb(226, 220, 214);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+
+body {
+  background: rgb(239, 231, 232) !important;
+  font-family: "Lora", sans-serif !important;
+  overflow-x: hidden;
+}
