@@ -8,7 +8,7 @@ O projeto se baseia em criar um site responsivo para uma loja de roupas sustent√
 
 A EcoChich √© uma empresa que tem como objetivo fabricar roupas de alta qualidade para que durem muito tempo, assim ajudando o meio ambiente.
 
-## Desenvilvido por
+## Desenvolvido por
 
 Mauro Carlos Maia Neto - RM:556645
 
